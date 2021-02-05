@@ -1,4 +1,4 @@
-# Grid Layout Exemple
+# Grid Layout Example
 
 https://www.loom.com/share/b3b0566d115b47f4afb9128718c9fcd1
 
