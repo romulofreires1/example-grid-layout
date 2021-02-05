@@ -298,7 +298,7 @@
     justify-self: center;
   }
   .dashboard > nav .title {
-    font-size: 1.225rem;
+    text-align: center;
   }
   .dashboard > nav main .options {
     align-items: center;
